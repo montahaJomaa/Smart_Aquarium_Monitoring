@@ -1,1 +1,1 @@
-# pH-Flow-and-Temperature-Simulation-with-ESP32-and-ThingSpeak-Cloud-Platfrom
+# Tailored for aquarium applications, highlighting the monitoring of pH, flow, and temperature using ESP32 and integration with ThingSpeak.
